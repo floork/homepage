@@ -16,14 +16,14 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
+  title: floork
+  description: "This is my Homepage where I want to share my projects"
+  keywords: [Blog, Portfolio, Linux]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: https://pbs.twimg.com/profile_images/1533160863556939778/YLx8fswz_400x400.png
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: dark # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
@@ -45,11 +45,11 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "assets/favicons/favicon.ico"
+    favicon16x16: "assets/favicons/favicon-16x16.png"
+    favicon32x32: "assets/favicons/favicon-32x32.png"
+    apple_touch_icon: "assets/favicons/apple-touch-icon.png"
+    safari_pinned_tab: "assets/favicons/safari-pinned-tab.svg"
 
   label:
     text: "Home"
@@ -73,24 +73,16 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Hello there \U0001F44B"
+    Content: This is my Homepage where I want to share my projects
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
     - name: stackoverflow
-      url: "https://stackoverflow.com"
+      url: "https://stackoverflow.com/users/14971571/floork"
     - name: github
-      url: "https://github.com/"
-
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
+      url: "https://github.com/floork"
+    - name: spotify
+      urls: "https://open.spotify.com/user/mrosflorian1"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -122,9 +114,9 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: about
+      name: about
+      url: /archetypes/about/abou7.md
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
