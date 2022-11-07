@@ -116,7 +116,7 @@ menu:
       weight: 20
     - identifier: about
       name: about
-      url: /archetypes/about/abou7.md
+      url: /archetypes/about/about.md
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
