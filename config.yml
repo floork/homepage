@@ -1,5 +1,4 @@
 baseURL: "https://floork.org/"
-baseURL: "https://examplesite.com/"
 title: floork
 paginate: 5
 theme: PaperModX
