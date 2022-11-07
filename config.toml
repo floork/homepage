@@ -1,4 +1,4 @@
-baseURL : 'http://hugo-quickstart-template.netlify.com'
+baseURL: "https://floork.org/"
 title: ExampleSite
 paginate: 5
 theme: PaperMod
