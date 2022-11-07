@@ -98,6 +98,8 @@ params:
         threshold: 0.4
         minMatchCharLength: 0
         keys: ["title", "permalink", "summary", "content"]
+
+    contentDir: /posts/
 menu:
     main:
         - identifier: categories
