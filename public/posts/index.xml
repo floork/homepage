@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>floork</title>
-    <link>https://floork.org/</link>
-    <description>Recent content on floork</description>
+    <title>Posts on floork</title>
+    <link>https://floork.org/posts/</link>
+    <description>Recent content in Posts on floork</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 15 Oct 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://floork.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Oct 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://floork.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is Plinx ?</title>
       <link>https://floork.org/posts/2020-09-15-plinx/</link>
@@ -14,16 +14,6 @@
       <guid>https://floork.org/posts/2020-09-15-plinx/</guid>
       <description>Plinx is my personal Postinstall Script to configure my whole Desktop. It is an acronym and it stands for Post Linuxinstall Script(+x for executible) With Plinx I want to automate my Linux configuration so that when ever I want to switch my Distro, I just have to run this script and it does everthing for me.
 Install git clone https://github.com/floork/plinx cd ./plinx ./install Features Copy configs install Programs Content Flatpaks com.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://floork.org/about/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://floork.org/about/</guid>
-      <description> My name is Florian Mros and I am an IT specialist in training at the Tu-Dresden I always loved computers and technical gadgets, so I decided to begin programming as a hobby, and now I&amp;rsquo;m in my training to be an IT specialist for application development.
-I&amp;rsquo;m currently based in Dresden You can contact me at floork@gmx.de If you have any other question: 42 </description>
     </item>
     
     <item>
@@ -84,24 +74,6 @@ git clone https://github.com/floork/my_shell cd my_shell ./install.sh </descript
       <guid>https://floork.org/posts/2020-09-15-nvim/</guid>
       <description>This is just a simple script to install Vim (specifically lunarvim) without doing anything. To use it you just have to run:
 curl -s -L https://raw.githubusercontent.com/floork/nvim/main/install.sh | bash </description>
-    </item>
-    
-    <item>
-      <title>Archive</title>
-      <link>https://floork.org/archives/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://floork.org/archives/</guid>
-      <description>archives</description>
-    </item>
-    
-    <item>
-      <title>Search</title>
-      <link>https://floork.org/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://floork.org/search/</guid>
-      <description>search</description>
     </item>
     
   </channel>

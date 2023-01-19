@@ -32,6 +32,10 @@ menu:
       name: archives
       url: /archives/
       weight: 5
+    - identifier: gist
+      name: gist
+      url: https://gist.github.com/floork
+      weight: 6
 
 outputs:
   home:

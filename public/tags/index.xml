@@ -1,9 +1,118 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on floork</title>
-    <link>https://examplesite.com/tags/</link>
+    <link>https://floork.org/tags/</link>
     <description>Recent content in Tags on floork</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://examplesite.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 15 Oct 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://floork.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>linux</title>
+      <link>https://floork.org/tags/linux/</link>
+      <pubDate>Thu, 15 Oct 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://floork.org/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plinx</title>
+      <link>https://floork.org/tags/plinx/</link>
+      <pubDate>Thu, 15 Oct 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://floork.org/tags/plinx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>script</title>
+      <link>https://floork.org/tags/script/</link>
+      <pubDate>Thu, 15 Oct 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://floork.org/tags/script/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://floork.org/tags/about/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://floork.org/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>https://floork.org/tags/first/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://floork.org/tags/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lunarvim</title>
+      <link>https://floork.org/tags/lunarvim/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://floork.org/tags/lunarvim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lvim</title>
+      <link>https://floork.org/tags/lvim/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://floork.org/tags/lvim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mouse speed</title>
+      <link>https://floork.org/tags/mouse-speed/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://floork.org/tags/mouse-speed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nvim</title>
+      <link>https://floork.org/tags/nvim/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://floork.org/tags/nvim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>qemu</title>
+      <link>https://floork.org/tags/qemu/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://floork.org/tags/qemu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>readme</title>
+      <link>https://floork.org/tags/readme/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://floork.org/tags/readme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vim</title>
+      <link>https://floork.org/tags/vim/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://floork.org/tags/vim/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

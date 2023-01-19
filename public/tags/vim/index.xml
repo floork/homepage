@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vim on floork</title>
+    <link>https://floork.org/tags/vim/</link>
+    <description>Recent content in vim on floork</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://floork.org/tags/vim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VIM</title>
+      <link>https://floork.org/posts/2020-09-15-nvim/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://floork.org/posts/2020-09-15-nvim/</guid>
+      <description>This is just a simple script to install Vim (specifically lunarvim) without doing anything. To use it you just have to run:
+curl -s -L https://raw.githubusercontent.com/floork/nvim/main/install.sh | bash </description>
+    </item>
+    
+  </channel>
+</rss>
