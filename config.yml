@@ -1,4 +1,4 @@
-baseURL: "https://floork.org/"
+baseURL: "https://floork.de/"
 title: floork
 paginate: 5
 theme: PaperModX
@@ -92,7 +92,7 @@ params:
   # author: ["Me", "You"] # multiple authors
   images:
     [
-      "https://www.gravatar.com/avatar/a3b3a90533fa19548c4aa9c92325e319",
+      "https://secure.gravatar.com/avatar/a3b3a90533fa19548c4aa9c92325e319?s=800&d=identicon",
     ]
   DateFormat: "January 2, 2006"
   defaultTheme: dark # dark, light
@@ -130,7 +130,7 @@ params:
     enabled: true # needs to be explicitly set
     title: floork
     subtitle: "IT-Specialist in training"
-    imageUrl: "https://www.gravatar.com/avatar/a3b3a90533fa19548c4aa9c92325e319"
+    imageUrl: "https://secure.gravatar.com/avatar/a3b3a90533fa19548c4aa9c92325e319?s=800&d=identicon"
     imageWidth: 450
     imageHeight: 450
     imageTitle: my image
