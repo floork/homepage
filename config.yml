@@ -92,7 +92,7 @@ params:
   # author: ["Me", "You"] # multiple authors
   images:
     [
-      "https://pbs.twimg.com/profile_images/1533160863556939778/YLx8fswz_400x400.png",
+      "https://www.gravatar.com/avatar/a3b3a90533fa19548c4aa9c92325e319",
     ]
   DateFormat: "January 2, 2006"
   defaultTheme: dark # dark, light
@@ -130,7 +130,7 @@ params:
     enabled: true # needs to be explicitly set
     title: floork
     subtitle: "IT-Specialist in training"
-    imageUrl: "https://avatars.githubusercontent.com/u/48620727?v=4"
+    imageUrl: "https://www.gravatar.com/avatar/a3b3a90533fa19548c4aa9c92325e319"
     imageWidth: 450
     imageHeight: 450
     imageTitle: my image
