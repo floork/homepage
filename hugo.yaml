@@ -16,6 +16,11 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+Menus:
+  main:
+    - name: Resumee
+      url: /resumee   # Update this line
+      weight: 1
 params:
   title: My Profile
   description: Text about my cool site
