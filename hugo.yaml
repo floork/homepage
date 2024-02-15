@@ -227,8 +227,9 @@ params:
       title: Recent Posts
       enable: false
       disableFeaturedImage: false
-    socialNetworks:
-      github: 'https://git.floork.dev'
+    # socialNetworks:
+    #   gitlab: 'https://git.floork.dev'
+    #   git: 'https://git.floork.dev'
   listPages:
     disableFeaturedImage: false
   singlePages:
