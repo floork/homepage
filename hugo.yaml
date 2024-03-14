@@ -25,7 +25,7 @@ params:
   title: My Profile
   description: Text about my cool site
   favicon: >-
-    https://gravatar.com/userimage/217663639/7744a19ac35618b7a62473f4efb2ef74.jpeg?size=256
+    https://avatars.githubusercontent.com/u/48620727?v=4
   useBootstrapCDN: false
   mathjax: false
   animate: true
@@ -58,7 +58,7 @@ params:
       I'm an IT-Specialist in training from Germany. I'm currently working on my
       own projects and learning new things.
     image: >-
-      https://gravatar.com/userimage/217663639/7744a19ac35618b7a62473f4efb2ef74.jpeg?size=256
+      https://avatars.githubusercontent.com/u/48620727?v=4
     bottomImage:
       enable: true
     button:
@@ -75,7 +75,7 @@ params:
     enable: true
     title: About Me
     image: >-
-      https://gravatar.com/userimage/217663639/7744a19ac35618b7a62473f4efb2ef74.jpeg?size=256
+      https://avatars.githubusercontent.com/u/48620727?v=4
     content: >-
       Hello there! I am an IT-Specialist in training, fueled by an immense love
       for technology and a commitment to honing my skills. Currently, I am proud
