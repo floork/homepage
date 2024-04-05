@@ -1,3 +1,14 @@
+---
+title: "Resumee"
+date: 2024-04-03T23:29:21+05:30
+draft: false
+author: "floork"
+tags:
+  - Resumee
+description: ""
+toc: true
+---
+
 # Florian Mros
 
 ## Contact Information
