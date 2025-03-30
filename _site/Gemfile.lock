@@ -302,7 +302,9 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
+  github-pages
   hacked-jekyll (~> 3.0)
+  jekyll (~> 3.9)
 
 BUNDLED WITH
    2.6.2
