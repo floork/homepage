@@ -1,0 +1,24 @@
+- key: Name
+  value: Florian Mros
+- key: Description
+  value:
+    - IT specialist in training
+    - at TU Dresden
+  typed: true
+- key: CV
+  value: cv.floork.dev
+  url: https://cv.floork.dev
+- key: Address
+  value:
+    - TU Dresden @ZIH
+    - Living in Dresden
+- key: Contact
+  value:
+    - key: Email
+      value: mail@floork.dev
+      url: "mailto:mail@floork.dev"
+- key: Profiles
+  value:
+    - value: GitHub
+      url: https://github.com/floork
+# credit to https://github.com/piazzai/hacked-jekyll
